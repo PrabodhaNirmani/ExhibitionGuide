@@ -1,0 +1,102 @@
+<resources>
+
+    <string name="app_name">Exmo Guider</string>
+    <string name="master_act_btn">Search</string>
+    <string name="home_act_msg">Where you want to go ?</string>
+    <string name="home_act_msg_welcome">Welcome to UOM</string>
+    <string-array name="location_array">
+        <item>[Select]</item>
+        <!--1--> <item>Computer Science and Engineering Department</item>
+        <!--2--> <item>Electronic and Telecommunication Engineering Department</item>
+        <!--3--> <item>Electrical Engineering Department</item>
+        <!--4--> <item>Civil Engineering Department</item>
+        <!--5--> <item>Mechanical Engineering Department</item>
+        <!--6--> <item>Chemical and Process Engineering Department</item>
+        <!--7--> <item>Material Science and Engineering Department</item>
+        <!--8--> <item>Textile and Management Engineering Department</item>
+        <!--9--> <item>Earth Resources and Management Engineering Department</item>
+        <!--10--> <item>Transport and Logistic Management Department</item>
+
+    </string-array>
+    <string name="load_act_error_msg_title">Service is unavailable</string>
+    <string name="load_act_error_msg1">You are currently away from University of Moratuwa premises</string>
+    <string name="load_act_error_msg2">Unable to access location settings. Try again later</string>
+
+
+    <string name="load_act_progress_title">Please wait</string>
+    <string name="load_act_progress_msg">Collecting information...</string>
+
+    <string name="home_act_custom_progress_title">Info</string>
+    <string name="home_act_custom_progress_body">You arrived to the </string>
+    <string name="home_act_custom_progress_btn_neutral_text">Next</string>
+
+    <string name="master_act_error_dialog_title">Sorry</string>
+    <string name="master_act_error_dialog_body">Service is currently unavailable in this area. Sorry.</string>
+    <string name="master_act_error_dialog_btn_neutral_text">Ok</string>
+
+    <string name="master_act_error1_dialog_title">Sorry</string>
+    <string name="master_act_error1_dialog_body">You are out of CSE premises.</string>
+    <string name="master_act_error1_dialog_btn_neutral_text">Ok</string>
+
+    <string name="master_act_dialog_title">Info : Welcome to</string>
+    <string name="master_act_dialog_body">You are in the</string>
+    <string name="master_act_dialog_btn_neutral_text">Next</string>
+    <string name="master_act_wifi_enable_toast_text">Wifi is disabled. Making it enabled</string>
+
+
+    <string name="map_act_dialog_title">Info</string>
+    <string name="map_act_dialog_body">You just arrived to the Destination</string>
+    <string name="map_act_dialog_btn_neutral_text">Ok</string>
+    <string name="map_act_dialog_btn_video_text">Enable Video</string>
+    <string name="map_act_dialog_btn_audio_text">Enable Audio</string>
+
+
+    <string-array name="places_array">
+        <item>[Select]</item>
+        <item>Final Year Project Lab</item>
+        <item>Advanced Lab</item>
+        <item>Research Assistant's Lab</item>
+        <item>CSE Staff Room</item>
+        <item>ICE Lab</item>
+        <item>Media Room</item>
+        <item>Seminar Room</item>
+        <item>Ewis Research Lab</item>
+        <item>Codegen Lab</item>
+        <item>Sysco Labs</item>
+        <item>Tutorial Room 2</item>
+        <item>Data Communication Lab</item>
+        <item>Microsoft Lab</item>
+        <item>Level 1 Lab</item>
+        <item>New Tutorial Room</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="exhibits_array">
+        <item>[Select]</item>
+        <item>Final Year Project Demos1</item>
+        <item>Programming challenge</item>
+        <item>Research Assistant's Lab</item>
+        <item>CSE Staff room</item>
+        <item>Embedded devices Demos</item>
+        <item>Game Arcade</item>
+        <item>Media Unit</item>
+        <item>Robotics Challenge</item>
+        <item>Ewis Research Lab</item>
+        <item>Photography Exhibition</item>
+        <item>Sysco Labs</item>
+        <item>Final Year Project Demos2</item>
+        <item>Data Communication Lab</item>
+        <item>Microsoft Lab</item>
+        <item>Level 1 Lab</item>
+        <item>New Tutorial Room</item>
+        <item>Room1</item>
+        <item>CSE office</item>
+        <item>HOD office</item>
+    </string-array>
+
+    <string name="map_act_msg">Where you want to go?</string>
+
+</resources>
